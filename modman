@@ -1,7 +1,6 @@
 app/code/local/MobWeb/UseShortDescriptionAsMetaDescriptionForProduct app/code/local/MobWeb/UseShortDescriptionAsMetaDescriptionForProduct/
 
-app/etc/modules/MobWeb_UseShortDescriptionAsMetaDescriptionForProduct.xml 
-app/etc/modules/MobWeb_UseShortDescriptionAsMetaDescriptionForProduct.xml
+app/etc/modules/MobWeb_UseShortDescriptionAsMetaDescriptionForProduct.xml app/etc/modules/MobWeb_UseShortDescriptionAsMetaDescriptionForProduct.xml
 
 # Clear the cache
 @shell   rm -rf $PROJECT/var/cache/* && echo "Magento Cache cleared"
